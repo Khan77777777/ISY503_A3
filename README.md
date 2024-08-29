@@ -4,5 +4,5 @@
 ## Croup Members 
 
 - **Sajid Liaqat**
-- - **Syed Hamza**
+- **Syed Hamza**
 
