@@ -6,3 +6,7 @@
 - **Sajid Liaqat**
 - **Syed Hamza**
 
+## Commands
+pip install -r requirements.txt
+streamlit run review_analyzer.py
+
