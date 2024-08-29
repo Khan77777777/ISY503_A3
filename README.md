@@ -8,5 +8,7 @@
 
 ## Commands
 pip install -r requirements.txt
+
+## Program run with following command
 streamlit run review_analyzer.py
 
